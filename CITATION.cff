@@ -1,0 +1,25 @@
+# YAML 1.2
+---
+authors: 
+  -
+    affiliation: "Sandia National Laboratories"
+    family-names: Tencer
+    given-names: John
+    orcid: "https://orcid.org/0000-0003-1625-5887"
+  -
+    family-names: Schroeder
+    given-names: Benjamin
+  -
+    family-names: Carlberg
+    given-names: Kevin
+  -
+    family-names: Hoang
+    given-names: Chi
+  -
+    family-names: Irick
+    given-names: Kevin
+cff-version: "1.1.0"
+message: "If you use this software, please cite it using these metadata."
+title: PyNetUQ
+version: "0.1"
+...
