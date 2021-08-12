@@ -21,5 +21,6 @@ authors:
 cff-version: "1.1.0"
 message: "If you use this software, please cite it using these metadata."
 title: PyNetUQ
+repository-code: "https://github.com/jtencer/PyNetUQ"
 version: "0.1"
 ...
