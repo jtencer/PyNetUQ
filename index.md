@@ -10,4 +10,4 @@ Closely follows the algorithmic description [here](https://arxiv.org/abs/1908.11
 
 ## Support or Contact
 
-Having trouble with PyNetUQ or want to collaborate? [Contact Me](jttencer@gmail.com)
+Having trouble with PyNetUQ or want to collaborate? [Contact Me](jtencer@sandia.gov)
